@@ -1,0 +1,50 @@
+.moods {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.img1 {
+    display: flex;
+    width: 300px;
+    height: 200px;
+}
+
+.img2 {
+    display: flex;
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    color: #e1469d;
+}
+
+h2 {
+    color: #e55da9;
+}
+
+strong {
+    color: #da1884;
+}
+
+a {
+    color: #de2f90;
+}
+
+body {
+    background-color: #f8d1e6;
+}
+
+li {
+    color: #da1884;
+}
+
+p {
+    color: #e1469d;
+}
+
+.git {
+    color: #bc4749;
+}
